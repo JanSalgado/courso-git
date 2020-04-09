@@ -10,7 +10,7 @@ namespace first
 
             Console.WriteLine("ola mundo");
 
-            slkdysgfljygds
+          
 
         }
     }
