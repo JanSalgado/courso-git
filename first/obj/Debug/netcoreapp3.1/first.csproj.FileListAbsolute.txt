@@ -1,0 +1,11 @@
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.exe
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.deps.json
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.json
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.runtimeconfig.dev.json
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.dll
+C:\temp\wp_vs2019\first\first\bin\Debug\netcoreapp3.1\first.pdb
+C:\temp\wp_vs2019\first\first\obj\Debug\netcoreapp3.1\first.csprojAssemblyReference.cache
+C:\temp\wp_vs2019\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfoInputs.cache
+C:\temp\wp_vs2019\first\first\obj\Debug\netcoreapp3.1\first.AssemblyInfo.cs
+C:\temp\wp_vs2019\first\first\obj\Debug\netcoreapp3.1\first.dll
+C:\temp\wp_vs2019\first\first\obj\Debug\netcoreapp3.1\first.pdb
